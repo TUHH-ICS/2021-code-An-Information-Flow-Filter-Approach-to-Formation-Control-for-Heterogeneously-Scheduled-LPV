@@ -1,0 +1,13 @@
+This repository contains the files to reproduce the results and figures presented in
+
+A. Attallah and H. Werner,
+"An Information Flow Filter Approach to Formation Control for Heterogeneously Scheduled LPV  Agents", 
+submitted to the 60th Conference on Decision and Control, 2021.
+
+The figures can be reproduced using the file 'IFF_Heterogenous.m'.
+
+The code has been tested using:
+  - Matlab R2019b
+  - yalmip, solver: sdpt3
+  
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
